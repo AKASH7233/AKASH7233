@@ -1,6 +1,6 @@
-[![MasterHead](Akash.png)]
 
-<h1 align="center">Hi 👋, I'm Akash Yadav</h1>
+
+<h1 align="center">Hi 👋, I'm [![MasterHead](Akash.png)]</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align='right' width='400' src ='https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'/>
