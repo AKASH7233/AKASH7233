@@ -9,9 +9,9 @@
 # 🙋‍♂️ About Me
 <div><img align="right" src="https://stats.quine.sh/akash7233/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 
-- 👨‍💻 Love to learn new technologies and to explore new set of areas.
+- 👨‍💻 Love to learn new technologies and explore new areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master
-  a new skill and to implement it to solve a realtime problems.
+  a new skill and to implement it to solve real-time problems.
 - 📘 I’m Currently learning **TYPESCRIPT AND DSA**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 📫 How to reach me **akashyadv7233@gmail.com**
@@ -27,7 +27,7 @@
 <div><img align="right" src="https://stats.quine.sh/akash7233/github?theme=dark" title="Quine Stats Card" alt="logo" height="330" width="420"></div>
 
 
-🔭 I’m currently working on Connectify - A social media platform<br><br>🌱 I’m currently learning NextJS<br><br>💬 Ask me about Frontend, MERN Stack<br><br>📫 How to reach me akashyadv7233@gmail.com
+🔭 I’m currently working on Connectify - A social media platform<br><br>🌱 I’m presently learning NextJS<br><br>💬 Ask me about Frontend, MERN Stack<br><br>📫 How to reach me akashyadv7233@gmail.com
  -->
 
 # 💻 Tech Stack:
@@ -87,9 +87,9 @@
 
 | Project List | Topic | Languages/Tool Details |
 | :--- | :---: | :---: |
+| [**🔗 ConnectiFy **](https://connectify-six.vercel.app/) | Full Stack | MERN + SOCKET.IO + SHADCN + JWT |
 | [**🔗 Movix **](https://movix-two-iota.vercel.app/) | Website | REACT.JS + REDUX + SCSS |
 | [**🔗 Social Media **](https://github.com/AKASH7233/sm_backend) | Backend | NODE.JS + EXPRESS.JS + MONGODB + JWT |
-| [**🔗 Shoppers **](https://e-com-sandy.vercel.app/) | Ui | REACT.JS + CONTEXT-API + TAILWIND CSS |
 | [**🔗 Todo **](https://todo-peach-six.vercel.app/) | Website | REACT.JS + REDUX + TAILWIND CSS |
 | [**🔗 Cypro **](https://akash7233.github.io/Cypro2.0/) | STATIC | HTML + CSS |
 
