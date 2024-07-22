@@ -89,8 +89,8 @@
 | :--- | :---: | :---: |
 | [**🔗 ConnectiFy **](https://connectify-six.vercel.app/) | Full Stack | MERN + SOCKET.IO + SHADCN + JWT |
 | [**🔗 Movix **](https://movix-two-iota.vercel.app/) | Website | REACT.JS + REDUX + SCSS |
-| [**🔗 Social Media **](https://github.com/AKASH7233/sm_backend) | Backend | NODE.JS + EXPRESS.JS + MONGODB + JWT |
 | [**🔗 Todo **](https://todo-peach-six.vercel.app/) | Website | REACT.JS + REDUX + TAILWIND CSS |
+| [**🔗 ConnectNow **](https://connecttnow.netlify.app/) | Website | HTML + CSS + JS + AGORA-SDK |
 | [**🔗 Cypro **](https://akash7233.github.io/Cypro2.0/) | STATIC | HTML + CSS |
 
 </div>
